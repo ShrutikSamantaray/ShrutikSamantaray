@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shrutiksamantarayask@gmail.com**
 
-- ⚡ Fun fact **The first computer virus was created in 1983 by Fred Cohen. He called it "The Reaper" and designed it to remove a different virus called "The Creeper."**
+- ⚡ Fun fact **The first computer virus was created in 1983 by Fred Cohen. He called it "The Reaper" and designed it to remove a virus called "The Creeper."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
