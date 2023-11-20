@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shhrutik Samantaray</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedalihaider02&label=Profile%20views&color=0e75b6&style=flat" alt="shrutiksamantaray" /> </p>
+
 
 - 🌱 I’m currently learning **React, Machine Learning**
 
