@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NLP, Deep Learning and Machine Learning**
 
-- 📫 How to reach me **shrutiksamantarayask@gmail.com**
+- 📫 How to reach me **shhrutiksamantaray@gmail.com**
 
 - ⚡ Fun fact **The first computer virus was created in 1983 by Fred Cohen. He called it "The Reaper" and designed it to remove a different virus called "The Creeper."**
 
